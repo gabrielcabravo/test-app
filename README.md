@@ -1,3 +1,3 @@
 # test-app
 
-testing trigger 5
+testing trigger 6
