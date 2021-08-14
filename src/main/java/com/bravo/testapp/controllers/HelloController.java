@@ -10,6 +10,6 @@ public class HelloController {
 
     @GetMapping
     public String hello() {
-        return "Hello World!";
+        return "Hello World from App Re-Deployed from Tekton Pipeline! :)";
     }
 }
